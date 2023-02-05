@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KinoPoiskApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="no_internet_connection">Произошла ошибка при загрузке данных, проверьте подключение к сети</string>
+    <string name="you_have_no_internet_connection">Вы не в сети! Проверьте, включена ли передача данных</string>
+    <string name="no_favorite_movies">Не найдено избранных фильмов</string>
+    <string name="retry">Повторить</string>
+    <string name="error_movie_id">Произошла ошибка при получении id фильма, попробуйте найти другой фильм</string>
+    <string name="countries">Страны:</string>
+    <string name="genres">Жанры:</string>
+    <string name="hint_search">Поиск по названию</string>
+    <string name="popular">Популярное</string>
+    <string name="favorite">Избранное</string>
+</resources>
