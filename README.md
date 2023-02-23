@@ -23,7 +23,6 @@ favorites are available offline.
 
 ## The application implements:
 - Fragment
-- Navigation component
 - ViewBinding
 - Room
 - OkHttp
