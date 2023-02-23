@@ -20,6 +20,16 @@ card, the movie is placed in favorites and stored in the database. Movie cards f
 favorites are available offline.
 - When viewing popular, films that are in favorites are highlighted.
 - In the sections, you can search for films by title (according to the selected section).
-## Example
 
-![kinopoisk (3)](https://user-images.githubusercontent.com/7962882/220947905-1b07bf64-309f-4152-9e54-d485cee4763e.gif)
+## The application implements:
+- Fragment
+- Navigation component
+- ViewBinding
+- Room
+- OkHttp
+- Retrofit
+- Glide
+- RxJava/Coroutines
+- MVI
+## Example
+<img src="https://user-images.githubusercontent.com/7962882/220947905-1b07bf64-309f-4152-9e54-d485cee4763e.gif" width="450" height="800" />
