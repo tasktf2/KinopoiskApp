@@ -23,12 +23,13 @@ favorites are available offline.
 
 ## The application implements:
 - Fragment
+- ViewModel
 - ViewBinding
 - Room
 - OkHttp
 - Retrofit
 - Glide
 - RxJava/Coroutines
-- MVI
+- MVI+Clean
 ## Example
 <img src="https://user-images.githubusercontent.com/7962882/220947905-1b07bf64-309f-4152-9e54-d485cee4763e.gif" width="450" height="800" />
